@@ -14,9 +14,9 @@ I'm an Information Technology student at Phenikaa University with a strong passi
 
 ### Tech Stack & Tools
 
-* **Languages & Frameworks:** C# (ASP.NET Core, WPF), PHP (Laravel), Java
+* **Languages & Frameworks:** C# (ASP.NET Core, WPF), PHP (Laravel), Java(Spring Boot)
 * **Databases:** SQL Server, MySQL, PostgreSQL
-* **Tools & Environment:** Git/GitHub, Postman, cPanel, phpMyAdmin, Visual Studio, VS Code
+* **Tools & Environment:** Git/GitHub, Postman, cPanel, phpMyAdmin, Visual Studio Code
 
 ---
 
