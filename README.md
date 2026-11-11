@@ -20,9 +20,4 @@ I'm an Information Technology student at Phenikaa University with a strong passi
 
 ---
 
-### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoangPhong0211&theme=radical&hide_border=true" alt="Hoang Phong's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangPhong0211&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
